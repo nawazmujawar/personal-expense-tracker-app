@@ -1,0 +1,9 @@
+.actionButtons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  bottom: 30px;
+  right: 10px;
+}
